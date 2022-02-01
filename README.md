@@ -1,6 +1,4 @@
-### Hi there 👋
-
-I'm Phos :)
+### Hi there, I'm Phos 👋
 
 - I'm currently in my third year of a Bachelors in Mathematics at the University of Warwick in the UK
 - I'm a hobbyist esports person
