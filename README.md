@@ -1,8 +1,8 @@
 ### Hi there, I'm Phos 👋
 
-- I'm currently in my third year of a Bachelors in Mathematics at the University of Warwick in the UK
+- I'm currently in my final year of a Bachelors in Mathematics at the University of Warwick in the UK
 - I'm a hobbyist esports person
-- I have a particular interest in data in esports and data science in esports
+- I have a particular interest in data in all cases (but particlarly in esports)
 
 <!--
 **Phosphorescentt/phosphorescentt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
