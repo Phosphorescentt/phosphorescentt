@@ -1,4 +1,4 @@
-### Hi there, I'm Phos 👋
+### Hi there! I'm Josh, but everyone calls me Phos 👋
 
 - I'm currently in my final year of a Bachelors in Mathematics at the University of Warwick in the UK
 - I'm a hobbyist esports person
