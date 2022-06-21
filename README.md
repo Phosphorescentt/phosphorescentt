@@ -2,7 +2,8 @@
 
 - I'm currently in my final year of a Bachelors in Mathematics at the University of Warwick in the UK
 - I'm a hobbyist esports person
-- I have a particular interest in data and data communication in all cases (but particlarly in esports)
+- I have a strong interest and desire to learn anything and everything about data, data science and data communication
+- I love Open Source Software :)
 
 <!--
 **Phosphorescentt/phosphorescentt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
