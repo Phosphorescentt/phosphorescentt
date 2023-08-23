@@ -1,4 +1,4 @@
-### Hi there! I'm Josh, but everyone calls me Phos 👋
+### Hi there! I'm Phos 👋
 I love open source software :)
 
 <!--
