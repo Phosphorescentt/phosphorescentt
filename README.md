@@ -1,5 +1,4 @@
 ### Hi there! I'm Phos 👋
-I love open source software :)
 
 <!--
 **Phosphorescentt/phosphorescentt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
